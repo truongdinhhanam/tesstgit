@@ -1,0 +1,11 @@
+D:\Hoc tap\C#\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\Hoc tap\C#\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\Hoc tap\C#\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\Hoc tap\C#\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+D:\Hoc tap\C#\Lab6\Lab6\obj\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+D:\Hoc tap\C#\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+D:\Hoc tap\C#\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+D:\Hoc tap\C#\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+D:\Hoc tap\C#\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\Hoc tap\C#\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\Hoc tap\C#\Lab6\Lab6\obj\Debug\Lab6.pdb
